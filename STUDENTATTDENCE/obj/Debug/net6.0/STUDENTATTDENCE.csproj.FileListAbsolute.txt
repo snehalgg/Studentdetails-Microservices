@@ -1,0 +1,76 @@
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\appsettings.Development.json
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\appsettings.json
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.exe
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.deps.json
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.runtimeconfig.json
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.pdb
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.csproj.AssemblyReference.cache
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.AssemblyInfoInputs.cache
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.AssemblyInfo.cs
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.csproj.CoreCompileInputs.cache
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.MvcApplicationPartsAssemblyInfo.cs
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.MvcApplicationPartsAssemblyInfo.cache
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets\msbuild.STUDENTATTDENCE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets\msbuild.build.STUDENTATTDENCE.props
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.STUDENTATTDENCE.props
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.STUDENTATTDENCE.props
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\scopedcss\bundle\STUDENTATTDENCE.styles.css
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.csproj.CopyComplete
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\refint\STUDENTATTDENCE.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.pdb
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.genruntimeconfig.cache
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\obj\Debug\net6.0\ref\STUDENTATTDENCE.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Snehal Gurav\.net framework\microservuces\Schooldet\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\appsettings.Development.json
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\appsettings.json
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.exe
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.deps.json
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.runtimeconfig.json
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\STUDENTATTDENCE.pdb
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.csproj.AssemblyReference.cache
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.AssemblyInfoInputs.cache
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.AssemblyInfo.cs
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.csproj.CoreCompileInputs.cache
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.MvcApplicationPartsAssemblyInfo.cs
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.MvcApplicationPartsAssemblyInfo.cache
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets\msbuild.STUDENTATTDENCE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets\msbuild.build.STUDENTATTDENCE.props
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.STUDENTATTDENCE.props
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.STUDENTATTDENCE.props
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets.build.json
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\staticwebassets.development.json
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\scopedcss\bundle\STUDENTATTDENCE.styles.css
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.csproj.CopyComplete
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\refint\STUDENTATTDENCE.dll
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.pdb
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\STUDENTATTDENCE.genruntimeconfig.cache
+D:\Snehal Gurav\.net framework\microservuces\Snehal Microservice project\STUDENTATTDENCE\obj\Debug\net6.0\ref\STUDENTATTDENCE.dll
